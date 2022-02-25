@@ -1,0 +1,69 @@
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    }
+
+    h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+    body {
+        background-color: #D77A61;
+        padding: 3%;
+    }
+
+    p {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    #minhafoto {
+        float: left;
+        padding: 10px;
+        background-color: crimson;
+    }
+
+    .image-container {
+        height: 400px;
+    }
+
+    #descrição {
+
+    }
+
+    #habilidades {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    #brasileira {
+        color: white;
+        text-decoration: underline;
+    }
+
+    #cidade {
+        color: white;
+        text-decoration: underline;
+    }
+
+    .interlocução {
+        font-size: 25px;
+    }
+
+    .organização {
+        font-size: 22px;
+    }
+
+    .negociação {
+        font-size: 18px;
+    }
+
+    .controle {
+        font-size: 16px;
+    }
+
+    .resiliência {
+        font-size: 14px;
+    }
+
+    ul li:nth-child(odd) {
+        background-color: chartreuse;
+    }
